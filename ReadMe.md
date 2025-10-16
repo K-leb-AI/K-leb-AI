@@ -1,5 +1,5 @@
 ## Hey!! I'm Caleb!
-Welcome to by porfolio. I enjoy thinking outside the box and crafting solutions others might overlook. I’ve grown deeply interested in robotics, and artificial intelligence, and I hope to one day make a meaningful contribution to the growing knowledge in this exciting field!
+Welcome to my porfolio. I enjoy thinking outside the box and crafting solutions others might overlook. I’ve grown deeply interested in robotics, and artificial intelligence, and I hope to one day make a meaningful contribution to the growing knowledge in this exciting field!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caleb_chosen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/calebniilanteilamptey) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:calebniilantei@gmail.com) 
